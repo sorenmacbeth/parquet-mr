@@ -15,7 +15,7 @@
   <url>https://github.com/Parquet/parquet-mr</url>
 
   <properties>
-    <elephant-bird.version>4.4</elephant-bird.version>
+    <elephant-bird.version>4.5</elephant-bird.version>
   </properties>
 
   <dependencies>
@@ -131,5 +131,5 @@
         <artifactId>maven-shade-plugin</artifactId>
       </plugin>
     </plugins>
-  </build> 
+  </build>
 </project>
